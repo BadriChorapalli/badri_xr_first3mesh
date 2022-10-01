@@ -1,0 +1,27 @@
+{
+    "name": "npm-package-demo641",
+    "version": "1.0.0",
+    "description": "A simple sandbox to demonstrate how to use three-mesh-ui from npm package",
+    "main": "index.html",
+    "scripts": {
+        "start": "parcel index.html --https",
+        "build": "parcel build index.html"
+    },
+    "dependencies": {
+        "@fortawesome/fontawesome-free": "^6.1.1",
+        "assets": "^3.0.1",
+        "components": "^0.1.0",
+        "font-awesome": "^4.7.0",
+        "parcel-bundler": "^1.6.1",
+        "three": "0.132.2",
+        "three-mesh-ui": "6.4.1"
+    },
+    "devDependencies": {
+        "@babel/core": "7.2.0",
+        "typescript": "4.4.4"
+    },
+    "resolutions": {
+        "@babel/preset-env": "7.13.8"
+    },
+    "keywords": []
+}

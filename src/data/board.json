@@ -1,0 +1,20 @@
+[
+    {
+        "label":"Sensex",
+        "value":"52,693.57",
+        "present":"150.2"
+    },
+    {
+        "label":"Banknifty",
+        "value":"33,311.35",
+        "present":"94.50"
+    },{
+        "label":"Invested Amount",
+        "value":"88244",
+        "present":"Total Profit 6000 "
+    },{
+        "label":"Market Value",
+        "value":"52,693.57",
+        "present":"Today Profit 200"
+    }
+]
