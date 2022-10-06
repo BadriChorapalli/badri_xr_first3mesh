@@ -49166,18 +49166,6 @@ function ShadowedLight(options) {
 }
 },{"three":"node_modules/three/build/three.module.js"}],"assets/adharvh.jpg":[function(require,module,exports) {
 module.exports = "/adharvh.ebd76739.jpg";
-},{}],"assets/home.png":[function(require,module,exports) {
-module.exports = "/home.5b2e3f82.png";
-},{}],"assets/icons8-notification-50.png":[function(require,module,exports) {
-module.exports = "/icons8-notification-50.f1935bb1.png";
-},{}],"assets/icons8-speech-bubble-50.png":[function(require,module,exports) {
-module.exports = "/icons8-speech-bubble-50.12a59ef0.png";
-},{}],"assets/icons8-customer-50.png":[function(require,module,exports) {
-module.exports = "/icons8-customer-50.84660a04.png";
-},{}],"assets/icons8-settings-50.png":[function(require,module,exports) {
-module.exports = "/icons8-settings-50.8f444728.png";
-},{}],"assets/sun_temple_stripe_stereo1.jpg":[function(require,module,exports) {
-module.exports = "/sun_temple_stripe_stereo1.93b6fe98.jpg";
 },{}],"assets/Roboto-msdf.json":[function(require,module,exports) {
 module.exports = {
   "pages": ["Roboto-Regular.png"],
@@ -67238,82 +67226,6 @@ module.exports = {
 };
 },{}],"assets/Roboto-msdf.png":[function(require,module,exports) {
 module.exports = "/Roboto-msdf.f120f538.png";
-},{}],"src/data/mails.json":[function(require,module,exports) {
-module.exports = [{
-  "_id": "62a83e482d826a9afbe31741",
-  "index": 0,
-  "name": "Flowers Holder",
-  "recipient": "flowersholder@paprikut.com",
-  "subject": "Laboris consectetur eiusmod ea amet anim duis in ipsum labore ullamco nisi non.",
-  "from": "flowersholder@paprikut.com",
-  "body": "Minim enim minim dolore eiusmod aliquip. Nostrud aute eiusmod dolor occaecat laborum labore est anim veniam eiusmod sint. Irure occaecat adipisicing laboris officia. Minim sunt quis eu dolor qui sint pariatur occaecat ipsum sint. Magna labore excepteur aliqua nulla laborum minim laboris incididunt cupidatat. Aliqua nostrud ipsum sit deserunt. Exercitation in proident et qui mollit tempor ad dolore excepteur eu dolore.\r\n"
-}, {
-  "_id": "62a83e486aca60965223e277",
-  "index": 1,
-  "name": "Franco Barlow",
-  "recipient": "francobarlow@paprikut.com",
-  "subject": "Lorem voluptate cillum esse officia nostrud est deserunt proident.",
-  "from": "francobarlow@paprikut.com",
-  "body": "Amet ipsum et anim irure do qui Lorem aliquip laborum laboris ex. Ullamco ea ut voluptate eu et culpa occaecat dolor proident excepteur nisi. Tempor nulla est ad consectetur et quis ullamco.\r\n"
-}, {
-  "_id": "62a83e48de14c69d6ac600ce",
-  "index": 2,
-  "name": "Mayer Gibbs",
-  "recipient": "mayergibbs@paprikut.com",
-  "subject": "Laboris excepteur amet ut aliquip.",
-  "from": "mayergibbs@paprikut.com",
-  "body": "In sit do ut ex reprehenderit non eu ea. Ex do amet nisi enim deserunt et nostrud aute laborum. Laborum quis minim aute ea velit ad in. Et cillum exercitation reprehenderit irure reprehenderit. Sunt mollit labore Lorem proident Lorem labore cillum velit sit dolore ullamco do.\r\n"
-}, {
-  "_id": "62a83e4807ad5c1d6785767d",
-  "index": 3,
-  "name": "Gay Hodges",
-  "recipient": "gayhodges@paprikut.com",
-  "subject": "In ullamco non elit ut sint proident ad exercitation esse laborum officia.",
-  "from": "gayhodges@paprikut.com",
-  "body": "Non anim dolor qui ut magna veniam ea. Pariatur occaecat nostrud est cupidatat consectetur non eu. Occaecat aute esse do labore et. Tempor mollit in sint ut nulla exercitation exercitation occaecat aute sunt et Lorem adipisicing. Commodo ex commodo irure elit ex. Sit magna proident minim non consequat aliqua ex laboris adipisicing nisi.\r\n"
-}, {
-  "_id": "62a83e48ac818413cd5a3edc",
-  "index": 4,
-  "name": "Earlene Alvarez",
-  "recipient": "earlenealvarez@paprikut.com",
-  "subject": "Reprehenderit anim adipisicing sit quis esse quis sunt non.",
-  "from": "earlenealvarez@paprikut.com",
-  "body": "Aliqua ullamco ad incididunt tempor et reprehenderit tempor nulla et excepteur est consectetur adipisicing. Proident labore Lorem commodo laborum occaecat sunt ullamco. Sunt consequat tempor labore magna ullamco tempor aliqua esse deserunt excepteur eu. Irure proident ea sunt ad ea et elit aliqua. Laboris et ea in occaecat est fugiat aute amet pariatur. Qui anim voluptate ut enim nulla adipisicing fugiat do nulla quis ut.\r\n"
-}, {
-  "_id": "62a83e48d354c4276a648363",
-  "index": 5,
-  "name": "Shannon Greer",
-  "recipient": "shannongreer@paprikut.com",
-  "subject": "Do exercitation non aliqua aute.",
-  "from": "shannongreer@paprikut.com",
-  "body": "Eiusmod tempor tempor ipsum sit voluptate tempor proident incididunt. Aliquip amet cillum dolor voluptate et non aute eu eiusmod est officia amet reprehenderit qui. Et magna velit tempor non est enim. Minim ex minim velit duis nisi laboris ut. Exercitation pariatur sit ad culpa nisi ex exercitation irure. Id laborum dolor fugiat nisi magna proident. Excepteur sint nostrud qui eiusmod in consequat occaecat.\r\n"
-}, {
-  "_id": "62a83e48459a495ea230a507",
-  "index": 6,
-  "name": "Jessica Scott",
-  "recipient": "jessicascott@paprikut.com",
-  "subject": "Consectetur eu velit aliqua minim sint in ut tempor laborum non irure veniam amet.",
-  "from": "jessicascott@paprikut.com",
-  "body": "Eiusmod laboris ea anim aliquip incididunt in ut anim veniam occaecat nulla nulla. Duis ullamco elit sint pariatur aliquip. Deserunt pariatur ullamco sunt aliqua officia cupidatat cillum commodo. Minim duis irure eu elit nostrud ipsum Lorem.\r\n"
-}];
-},{}],"src/data/board.json":[function(require,module,exports) {
-module.exports = [{
-  "label": "Sensex",
-  "value": "52,693.57",
-  "present": "150.2"
-}, {
-  "label": "Banknifty",
-  "value": "33,311.35",
-  "present": "94.50"
-}, {
-  "label": "Invested Amount",
-  "value": "88244",
-  "present": "Total Profit 6000 "
-}, {
-  "label": "Market Value",
-  "value": "52,693.57",
-  "present": "Today Profit 200"
-}];
 },{}],"src/index.js":[function(require,module,exports) {
 "use strict";
 
@@ -67333,25 +67245,9 @@ var _ShadowedLight = _interopRequireDefault(require("./utils/ShadowedLight.js"))
 
 var _adharvh = _interopRequireDefault(require("../assets/adharvh.jpg"));
 
-var _home = _interopRequireDefault(require("../assets/home.png"));
-
-var _icons8Notification = _interopRequireDefault(require("../assets/icons8-notification-50.png"));
-
-var _icons8SpeechBubble = _interopRequireDefault(require("../assets/icons8-speech-bubble-50.png"));
-
-var _icons8Customer = _interopRequireDefault(require("../assets/icons8-customer-50.png"));
-
-var _icons8Settings = _interopRequireDefault(require("../assets/icons8-settings-50.png"));
-
-var _sun_temple_stripe_stereo = _interopRequireDefault(require("../assets/sun_temple_stripe_stereo1.jpg"));
-
 var _RobotoMsdf = _interopRequireDefault(require("../assets/Roboto-msdf.json"));
 
 var _RobotoMsdf2 = _interopRequireDefault(require("../assets/Roboto-msdf.png"));
-
-var _mails = _interopRequireDefault(require("../src/data/mails.json"));
-
-var _board = _interopRequireDefault(require("../src/data/board.json"));
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
@@ -67361,47 +67257,14 @@ function _interopRequireWildcard(obj, nodeInterop) { if (!nodeInterop && obj && 
 
 var WIDTH = window.innerWidth;
 var HEIGHT = window.innerHeight;
-var scene, camera, renderer, controls, vrControl;
-var meshContainer, meshes, currentMesh;
-var mainContailners = [];
-var objsToTest = [];
-var navList = ['Watchlist', 'Portfolio', 'Add Fund', 'Withdraw', 'Events', 'News'];
+var scene, camera, renderer, controls;
 window.addEventListener("load", init);
-window.addEventListener("resize", onWindowResize); // Events 
-// compute mouse position in normalized device coordinates
-// (-1 to +1) for both directions.
-// Used to raycasting against the interactive elements
-
-var raycaster = new THREE.Raycaster();
-var mouse = new THREE.Vector2();
-mouse.x = mouse.y = null;
-var selectState = false;
-window.addEventListener('pointermove', function (event) {
-  mouse.x = event.clientX / window.innerWidth * 2 - 1;
-  mouse.y = -(event.clientY / window.innerHeight) * 2 + 1;
-});
-window.addEventListener('pointerdown', function () {
-  selectState = true;
-});
-window.addEventListener('pointerup', function () {
-  selectState = false;
-});
-window.addEventListener('touchstart', function (event) {
-  selectState = true;
-  mouse.x = event.touches[0].clientX / window.innerWidth * 2 - 1;
-  mouse.y = -(event.touches[0].clientY / window.innerHeight) * 2 + 1;
-});
-window.addEventListener('touchend', function () {
-  selectState = false;
-  mouse.x = null;
-  mouse.y = null;
-}); //
+window.addEventListener("resize", onWindowResize); //
 
 function init() {
   scene = new THREE.Scene();
-  scene.background = new THREE.Color(0x505050); // camera = new THREE.PerspectiveCamera(60, WIDTH / HEIGHT, 0.1, 100);
-
-  camera = new THREE.PerspectiveCamera(70, window.innerWidth / window.innerHeight, 1, 1000);
+  scene.background = new THREE.Color(0x004161);
+  camera = new THREE.PerspectiveCamera(80, WIDTH / HEIGHT, 0.5, 100);
   renderer = new THREE.WebGLRenderer({
     antialias: true
   });
@@ -67412,71 +67275,12 @@ function init() {
   document.body.appendChild(renderer.domElement);
   controls = new _OrbitControls.OrbitControls(camera, renderer.domElement);
   camera.position.set(0, 1.6, 0);
-  controls.target = new THREE.Vector3(0, 1, -2.5);
+  controls.target = new THREE.Vector3(0, 1, -1.8);
   controls.update(); // ROOM
 
-  var room = new THREE.LineSegments(new _BoxLineGeometry.BoxLineGeometry(6, 6, 6, 15, 15, 15).translate(0, 3, 0), new THREE.LineBasicMaterial({
-    color: 0x0c81f5,
-    emissive: 0x141A35
-  }));
-  var roomMesh = new THREE.Mesh(new THREE.BoxGeometry(6, 6, 6, 10, 10, 10).translate(0, 3, 0), new THREE.MeshBasicMaterial({
-    side: THREE.BackSide
-  })); //scene.add(room);
+  var room = new THREE.LineSegments();
+  scene.add(room); // TEXT PANEL
 
-  /*--------------------*/
-  //camera = new THREE.PerspectiveCamera( 70, window.innerWidth / window.innerHeight, 1, 1000 );
-
-  camera.layers.enable(1);
-  var geometry = new THREE.BoxGeometry(100, 100, 100);
-  geometry.scale(1, 1, -1);
-  var textures = getTexturesFromAtlasFile(_sun_temple_stripe_stereo.default, 12);
-  var materials = [];
-
-  for (var i = 0; i < 6; i++) {
-    materials.push(new THREE.MeshBasicMaterial({
-      map: textures[i]
-    }));
-  }
-
-  var skyBox = new THREE.Mesh(geometry, materials);
-  skyBox.layers.set(1);
-  scene.add(skyBox);
-  var materialsR = [];
-
-  for (var _i = 6; _i < 12; _i++) {
-    materialsR.push(new THREE.MeshBasicMaterial({
-      map: textures[_i]
-    }));
-  }
-
-  var skyBoxR = new THREE.Mesh(geometry, materialsR);
-  skyBoxR.layers.set(2);
-  scene.add(skyBoxR);
-  /*-------------------*/
-  //////////
-  // Light
-  //////////
-
-  var light = (0, _ShadowedLight.default)({
-    z: 10,
-    width: 6,
-    bias: -0.0001
-  });
-  var hemLight = new THREE.HemisphereLight(0x808080, 0x606060);
-  scene.add(light, hemLight); ////////////////
-  // Controllers
-  ////////////////
-
-  vrControl = (0, _VRControl.default)(renderer, camera, scene);
-  scene.add(vrControl.controllerGrips[0], vrControl.controllers[0]);
-  vrControl.controllers[0].addEventListener('selectstart', function () {
-    selectState = true;
-  });
-  vrControl.controllers[0].addEventListener('selectend', function () {
-    selectState = false;
-  }); // TEXT PANEL
-
-  window.addEventListener('resize', onWindowResize);
   makeTextPanel(); //
 
   renderer.setAnimationLoop(loop);
@@ -67484,470 +67288,74 @@ function init() {
 
 
 function makeTextPanel() {
-  var homeMainContainer = new _threeMeshUi.default.Block({
-    ref: "homeMainContainer",
-    padding: 0.025,
-    width: 2.6,
-    height: 1.5,
-    fontFamily: _RobotoMsdf.default,
-    fontTexture: _RobotoMsdf2.default,
-    fontColor: new THREE.Color(0xffffff),
-    backgroundColor: new THREE.Color(0x243139),
-    backgroundOpacity: 1
-  });
-  homeMainContainer.position.set(0, 1.7, -1.9);
-  homeMainContainer.rotation.x = 0;
-  homeMainContainer.visible = true;
-  var homeMainContainerTitle = new _threeMeshUi.default.Block({
-    ref: "homeMainContainerTitle",
-    padding: 0.025,
-    width: 2.6,
-    height: .1,
-    fontFamily: _RobotoMsdf.default,
-    fontTexture: _RobotoMsdf2.default,
-    fontColor: new THREE.Color(0xffffff),
-    backgroundColor: new THREE.Color(0x243139),
-    backgroundOpacity: 1
-  });
-  homeMainContainerTitle.add(new _threeMeshUi.default.Text({
-    content: "Message"
-  }));
-  homeMainContainer.add(homeMainContainerTitle);
-  mainContailners.push(homeMainContainer);
-  scene.add(homeMainContainer);
-  var notificationMainContainer = new _threeMeshUi.default.Block({
-    ref: "notificationMainContainer",
-    padding: 0.025,
-    width: 2.6,
-    height: 1.5,
-    fontFamily: _RobotoMsdf.default,
-    fontTexture: _RobotoMsdf2.default,
-    fontColor: new THREE.Color(0xffffff),
-    backgroundColor: new THREE.Color(0x243139),
-    backgroundOpacity: 1
-  });
-  notificationMainContainer.position.set(0, 1.7, -1.9);
-  notificationMainContainer.rotation.x = 0;
-  notificationMainContainer.visible = false;
-  var notificationMainContainerTitle = new _threeMeshUi.default.Block({
-    ref: "notificationMainContainerTitle",
-    padding: 0.025,
-    width: 2.6,
-    height: .1,
-    fontFamily: _RobotoMsdf.default,
-    fontTexture: _RobotoMsdf2.default,
-    fontColor: new THREE.Color(0xffffff),
-    backgroundColor: new THREE.Color(0x243139),
-    backgroundOpacity: 1
-  });
-  notificationMainContainerTitle.add(new _threeMeshUi.default.Text({
-    content: "Notifications"
-  }));
-  notificationMainContainer.add(notificationMainContainerTitle);
-  mainContailners.push(notificationMainContainer);
-  scene.add(notificationMainContainer);
-  /**
-   * Chat
-   */
-
-  var chatMainContainer = new _threeMeshUi.default.Block({
-    ref: "chatMainContainer",
-    padding: 0.025,
-    width: 2.6,
-    height: 1.5,
-    fontFamily: _RobotoMsdf.default,
-    fontTexture: _RobotoMsdf2.default,
-    fontColor: new THREE.Color(0xffffff),
-    backgroundColor: new THREE.Color(0x243139),
-    backgroundOpacity: 1
-  });
-  chatMainContainer.position.set(0, 1.7, -1.9);
-  chatMainContainer.rotation.x = 0;
-  chatMainContainer.visible = false;
-  var chatMainContainerTitle = new _threeMeshUi.default.Block({
-    ref: "chatMainContainerTitle",
-    padding: 0.025,
-    width: 2.6,
-    height: .1,
-    fontFamily: _RobotoMsdf.default,
-    fontTexture: _RobotoMsdf2.default,
-    fontColor: new THREE.Color(0xffffff),
-    backgroundColor: new THREE.Color(0x243139),
-    backgroundOpacity: 1
-  });
-  chatMainContainerTitle.add(new _threeMeshUi.default.Text({
-    content: "Chat"
-  }));
-  chatMainContainer.add(chatMainContainerTitle);
-  mainContailners.push(chatMainContainer);
-  scene.add(chatMainContainer);
-  /**
-   * 
-   */
-
   var container = new _threeMeshUi.default.Block({
     ref: "container",
     padding: 0.025,
-    width: 2.6,
-    height: 1.5,
     fontFamily: _RobotoMsdf.default,
     fontTexture: _RobotoMsdf2.default,
     fontColor: new THREE.Color(0xffffff),
-    backgroundColor: new THREE.Color(0x243139),
-    backgroundOpacity: 1
+    backgroundOpacity: 0,
+    backgroundColor: new THREE.Color(0xf1c232)
   });
-  container.position.set(0, 1.7, -1.9);
-  container.rotation.x = 0;
-  container.visible = false;
-  mainContailners.push(container);
-  scene.add(container); //Top Container
-
-  var topContainer = new _threeMeshUi.default.Block({
-    ref: "topContainer",
-    padding: 0.025,
-    height: .8,
-    width: 3.6,
-    fontFamily: _RobotoMsdf.default,
-    fontTexture: _RobotoMsdf2.default,
-    fontColor: new THREE.Color(0xffffff),
-    backgroundColor: new THREE.Color(0x243139),
-    backgroundOpacity: 1,
-    contentDirection: 'row'
-  });
-  topContainer.position.set(0, 2.915, -1.77);
-  topContainer.rotation.x = 0.20;
-  scene.add(topContainer);
-  topContainer.visible = true;
-  var leftContainer = new _threeMeshUi.default.Block({
-    ref: "leftContainer",
-    height: 1.5,
-    width: .9,
-    padding: 0.025,
-    fontFamily: _RobotoMsdf.default,
-    fontTexture: _RobotoMsdf2.default,
-    fontColor: new THREE.Color(0xffffff),
-    backgroundColor: new THREE.Color(0x243139),
-    backgroundOpacity: 1
-  });
-  leftContainer.position.set(-1.68, 1.7, -1.5);
-  leftContainer.rotation.y = 0.60;
-  scene.add(leftContainer);
-  var rightContainer = new _threeMeshUi.default.Block({
-    ref: "rightContainer",
-    height: 1.5,
-    width: .9,
-    padding: 0.025,
-    fontFamily: _RobotoMsdf.default,
-    fontTexture: _RobotoMsdf2.default,
-    fontColor: new THREE.Color(0xffffff),
-    backgroundColor: new THREE.Color(0x243139),
-    backgroundOpacity: .5
-  });
-  rightContainer.position.set(1.68, 1.7, -1.5);
-  rightContainer.rotation.y = -0.60;
-  scene.add(rightContainer);
-  var bottomContainer = new _threeMeshUi.default.Block({
-    ref: "bottomContainer",
-    padding: 0.025,
-    width: 1.5,
-    height: .3,
-    fontFamily: _RobotoMsdf.default,
-    fontTexture: _RobotoMsdf2.default,
-    fontColor: new THREE.Color(0xffffff),
-    backgroundColor: new THREE.Color(0x0c81f5),
-    backgroundOpacity: 0.9,
-    borderRadius: .05,
-    justifyContent: 'center',
-    contentDirection: 'row'
-  });
-  bottomContainer.position.set(0, .75, -1.7);
-  bottomContainer.rotation.x = -.45;
-  scene.add(bottomContainer); // BUTTONS
-  // We start by creating objects containing options that we will use with the two buttons,
-  // in order to write less code.
-
-  var buttonOptions = {
-    width: 0.2,
-    height: 0.2,
-    justifyContent: 'center',
-    offset: 0.05,
-    margin: 0.03,
-    borderRadius: 0.05
-  };
-  var NavButtonOptions = {
-    width: 0.8,
-    height: 0.2,
-    justifyContent: 'center',
-    offset: 0.05,
-    margin: 0.02,
-    borderRadius: 0.02
-  };
-  var MailButtonOptions = {
-    width: 0.9,
-    height: 0.20,
-    justifyContent: 'center',
-    offset: 0.01,
-    margin: 0.001,
-    borderRadius: 0.01
-  };
-  var BoardButtonOptions = {
-    width: 0.95,
-    height: 0.20,
-    justifyContent: 'center',
-    offset: 0.01,
-    margin: 0.015,
-    borderRadius: 0.01
-  }; // Options for component.setupState().
-  // It must contain a 'state' parameter, which you will refer to with component.setState( 'name-of-the-state' ).
-
-  var hoveredStateAttributes = {
-    state: 'hovered',
-    attributes: {
-      offset: 0.1,
-      backgroundColor: new THREE.Color(0xf50c4a),
-      backgroundOpacity: 1,
-      fontColor: new THREE.Color(0xffffff)
-    }
-  };
-  var idleStateAttributes = {
-    state: 'idle',
-    attributes: {
-      offset: 0.035,
-      backgroundColor: new THREE.Color(0x666666),
-      backgroundOpacity: 0.3,
-      fontColor: new THREE.Color(0xffffff)
-    }
-  };
-  var navIdleStateAttributes = {
-    state: 'idle',
-    attributes: {
-      offset: 0.035,
-      backgroundColor: new THREE.Color(0x085fd1),
-      backgroundOpacity: 0.9,
-      fontColor: new THREE.Color(0xffffff)
-    }
-  };
-  var mailAttributes = {
-    state: 'idle',
-    attributes: {
-      offset: 0.0035,
-      height: .18,
-      width: .9,
-      backgroundColor: new THREE.Color(0x303e47),
-      backgroundOpacity: 0.9,
-      fontColor: new THREE.Color(0xffffff)
-    }
-  };
-  var hoveredMailAttributes = {
-    state: 'hovered',
-    attributes: {
-      offset: 0.025,
-      backgroundColor: new THREE.Color(0xf50c4a),
-      backgroundOpacity: 1,
-      fontColor: new THREE.Color(0xffffff)
-    }
-  };
-  var boardAttributes = {
-    state: 'idle',
-    attributes: {
-      offset: 0.0035,
-      height: .48,
-      width: .858,
-      backgroundColor: new THREE.Color(0x303e47),
-      backgroundOpacity: 0.9,
-      fontColor: new THREE.Color(0xffffff)
-    }
-  };
-  var hoveredBoardAttributes = {
-    state: 'hovered',
-    attributes: {
-      offset: 0.025,
-      backgroundColor: new THREE.Color(0xffffff),
-      backgroundOpacity: 1,
-      fontColor: new THREE.Color(0x222222a)
-    }
-  };
-  var selectedAttributes = {
-    offset: 0.02,
-    backgroundColor: new THREE.Color(0x038007),
-    fontColor: new THREE.Color(0x222222)
-  };
-  var loader = new THREE.TextureLoader();
-  var buttonHome = new _threeMeshUi.default.Block(buttonOptions);
-  var iconSettings = {
-    height: .12,
-    width: .12,
-    radius: 0,
-    fontColor: new THREE.Color(0xffffff)
-  };
-  var imageHome = new _threeMeshUi.default.Block(iconSettings);
-  loader.load(_home.default, function (texture) {
-    imageHome.set({
-      backgroundTexture: texture
-    });
-  });
-  buttonHome.add(imageHome);
-  buttonHome.setupState({
-    state: 'selected',
-    attributes: selectedAttributes,
-    onSet: function onSet() {
-      hideAllMainContainers(homeMainContainer);
-    }
-  });
-  buttonHome.setupState(hoveredStateAttributes);
-  buttonHome.setupState(idleStateAttributes);
-  var buttonNotification = new _threeMeshUi.default.Block(buttonOptions);
-  var imageNotification = new _threeMeshUi.default.Block(iconSettings);
-  loader.load(_icons8Notification.default, function (texture) {
-    imageNotification.set({
-      backgroundTexture: texture
-    });
-  });
-  buttonNotification.add(imageNotification);
-  buttonNotification.setupState({
-    state: 'selected',
-    attributes: selectedAttributes,
-    onSet: function onSet() {
-      hideAllMainContainers(notificationMainContainer);
-    }
-  });
-  buttonNotification.setupState(hoveredStateAttributes);
-  buttonNotification.setupState(idleStateAttributes);
-  var buttonChat = new _threeMeshUi.default.Block(buttonOptions);
-  var imageChat = new _threeMeshUi.default.Block(iconSettings);
-  loader.load(_icons8SpeechBubble.default, function (texture) {
-    imageChat.set({
-      backgroundTexture: texture
-    });
-  });
-  buttonChat.add(imageChat);
-  buttonChat.setupState({
-    state: 'selected',
-    attributes: selectedAttributes,
-    onSet: function onSet() {
-      hideAllMainContainers(chatMainContainer);
-    }
-  });
-  buttonChat.setupState(hoveredStateAttributes);
-  buttonChat.setupState(idleStateAttributes);
-  var buttonProfile = new _threeMeshUi.default.Block(buttonOptions);
-  var imageprofile = new _threeMeshUi.default.Block(iconSettings);
-  loader.load(_icons8Customer.default, function (texture) {
-    imageprofile.set({
-      backgroundTexture: texture
-    });
-  });
-  buttonProfile.add(imageprofile);
-  buttonProfile.setupState({
-    state: 'selected',
-    attributes: selectedAttributes,
-    onSet: function onSet() {
-      hideAllMainContainers(container);
-    }
-  });
-  buttonProfile.setupState(hoveredStateAttributes);
-  buttonProfile.setupState(idleStateAttributes);
-  var buttonSettings = new _threeMeshUi.default.Block(buttonOptions);
-  var imageSettings = new _threeMeshUi.default.Block(iconSettings);
-  loader.load(_icons8Settings.default, function (texture) {
-    imageSettings.set({
-      backgroundTexture: texture
-    });
-  });
-  buttonSettings.add(imageSettings);
-  buttonSettings.setupState({
-    state: 'selected',
-    attributes: selectedAttributes,
-    onSet: function onSet() {}
-  });
-  buttonSettings.setupState(hoveredStateAttributes);
-  buttonSettings.setupState(idleStateAttributes);
-  bottomContainer.add(buttonHome, buttonNotification, buttonChat, buttonProfile, buttonSettings);
-  objsToTest.push(buttonHome, buttonNotification, buttonChat, buttonProfile, buttonSettings);
-
-  for (var i = 0; i < 6; i++) {
-    var navButton = new _threeMeshUi.default.Block(NavButtonOptions);
-    navButton.add(new _threeMeshUi.default.Text({
-      content: navList[i]
-    }));
-    navButton.setupState({
-      state: 'selected',
-      attributes: selectedAttributes,
-      onSet: function onSet() {}
-    });
-    navButton.setupState(hoveredStateAttributes);
-    navButton.setupState(navIdleStateAttributes);
-    navButton.receiveShadow = true;
-    leftContainer.add(navButton);
-    objsToTest.push(navButton);
-  }
-
-  var _loop = function _loop() {
-    var mailButton = new _threeMeshUi.default.Block(MailButtonOptions);
-    mailButton.add(new _threeMeshUi.default.Text({
-      content: _mails.default[j].name
-    }));
-    mailButton.add(new _threeMeshUi.default.Text({
-      content: '\n' + _mails.default[j].subject.substring(0, 30) + '...',
-      fontSize: 0.02
-    }));
-    testing = {};
-    testing.data = _mails.default[j];
-    mailButton.userData = testing, mailButton.setupState({
-      state: 'selected',
-      attributes: selectedAttributes,
-      onSet: function onSet() {
-        console.log(mailButton);
-        console.log(j);
-        updateMailBox(homeMainContainerTitle, mailButton);
-      }
-    });
-    mailButton.setupState(hoveredMailAttributes);
-    mailButton.setupState(mailAttributes);
-    mailButton.receiveShadow = true;
-    rightContainer.add(mailButton);
-    objsToTest.push(mailButton);
-  };
-
-  for (var j = 0; j < _mails.default.length; j++) {
-    var testing;
-
-    _loop();
-  }
-
-  for (var k = 0; k < 4; k++) {
-    var boardButton = new _threeMeshUi.default.Block(BoardButtonOptions);
-    boardButton.add(new _threeMeshUi.default.Text({
-      content: _board.default[k].label + '\n'
-    }), new _threeMeshUi.default.Text({
-      content: _board.default[k].value + '\n',
-      fontColor: new THREE.Color(0x92e66c)
-    }), new _threeMeshUi.default.Text({
-      content: _board.default[k].present
-    }));
-    boardButton.setupState({
-      state: 'selected',
-      attributes: selectedAttributes,
-      onSet: function onSet() {}
-    });
-    boardButton.setupState(hoveredBoardAttributes);
-    boardButton.setupState(boardAttributes);
-    boardButton.receiveShadow = true;
-    topContainer.add(boardButton);
-    objsToTest.push(boardButton);
-  }
+  container.position.set(0, 2, -2);
+  container.rotation.x = -0.1;
+  scene.add(container); //
 
   var title = new _threeMeshUi.default.Block({
-    height: 0.2,
-    width: 1.5,
+    height: .6,
+    width: 3,
     margin: 0.025,
     justifyContent: "center",
-    fontSize: 0.09
+    fontSize: 0.06,
+    backgroundOpacity: 0,
+    backgroundColor: new THREE.Color(0x0c027c),
+    borderRadius: 0.05,
+    borderWidth: 0.01,
+    borderOpacity: .5,
+    borderColor: new THREE.Color(0x2c7da7)
   });
   title.add(new _threeMeshUi.default.Text({
     content: "Adharvh Chorapalli"
   }));
-  container.add(title); //
+  container.add(title);
+  var op = ["Option1", "Option2", "Option3", "Option4"];
+  var leftOptionBlock = new _threeMeshUi.default.Block({
+    margin: 0.15,
+    backgroundOpacity: 0,
+    backgroundColor: new THREE.Color(0x0c027c)
+  });
+  var rightOptionBlock = new _threeMeshUi.default.Block({
+    margin: 0.15,
+    backgroundOpacity: 0,
+    backgroundColor: new THREE.Color(0x0c027c)
+  });
+
+  for (var i = 0; i < 4; i++) {
+    var option = new _threeMeshUi.default.Block({
+      height: 0.3,
+      width: 1.5,
+      margin: 0.025,
+      justifyContent: "center",
+      float: "left",
+      fontSize: 0.06,
+      backgroundOpacity: 0,
+      backgroundColor: new THREE.Color(0x0c027c),
+      borderRadius: 0.05,
+      borderWidth: 0.01,
+      borderOpacity: .5,
+      borderColor: new THREE.Color(0x2c7da7)
+    });
+    option.add(new _threeMeshUi.default.Text({
+      content: op[i]
+    }));
+
+    if ((i + 1) % 2 == 0) {
+      leftOptionBlock.add(option);
+    } else {
+      rightOptionBlock.add(option);
+    } //
+
+  }
 
   var leftSubBlock = new _threeMeshUi.default.Block({
     height: 0.95,
@@ -67970,7 +67378,7 @@ function makeTextPanel() {
   leftSubBlock.add(caption); //
 
   var rightSubBlock = new _threeMeshUi.default.Block({
-    margin: 0.025
+    margin: 0.25
   });
   var subSubBlock1 = new _threeMeshUi.default.Block({
     height: 0.35,
@@ -67981,12 +67389,12 @@ function makeTextPanel() {
     justifyContent: "center",
     backgroundOpacity: 0
   }).add(new _threeMeshUi.default.Text({
-    content: "You earn "
+    content: "I am a "
   }), new _threeMeshUi.default.Text({
-    content: "40000",
+    content: "talented",
     fontColor: new THREE.Color(0x92e66c)
   }), new _threeMeshUi.default.Text({
-    content: " Rs."
+    content: " person."
   }));
   var subSubBlock2 = new _threeMeshUi.default.Block({
     height: 0.53,
@@ -67996,9 +67404,13 @@ function makeTextPanel() {
     fontSize: 0.025,
     alignItems: "start",
     textAlign: 'justify',
-    backgroundOpacity: 0
+    backgroundOpacity: 0,
+    borderRadius: 0.05,
+    borderWidth: 0.01,
+    borderOpacity: 1,
+    borderColor: new THREE.Color('white')
   }).add(new _threeMeshUi.default.Text({
-    content: "Profit 40000"
+    content: "I am an experienced professional seeking an opportunity to use my background in data analysis and market trend research. I am a dedicated and detail-oriented marketing specialist looking for an opportunity to expand my professional skillset and help Company X grow."
   }));
   rightSubBlock.add(subSubBlock1, subSubBlock2); //
 
@@ -68008,7 +67420,7 @@ function makeTextPanel() {
     margin: 0.025,
     backgroundOpacity: 0
   });
-  contentContainer.add(leftSubBlock, rightSubBlock);
+  contentContainer.add(leftOptionBlock, rightOptionBlock);
   container.add(contentContainer); //
 
   new THREE.TextureLoader().load(_adharvh.default, function (texture) {
@@ -68034,101 +67446,8 @@ function loop() {
 
   controls.update();
   renderer.render(scene, camera);
-  updateButtons();
 }
-
-function updateButtons() {
-  // Find closest intersecting object
-  var intersect;
-
-  if (renderer.xr.isPresenting) {
-    vrControl.setFromController(0, raycaster.ray);
-    intersect = raycast(); // Position the little white dot at the end of the controller pointing ray
-
-    if (intersect) vrControl.setPointerAt(0, intersect.point);
-  } else if (mouse.x !== null && mouse.y !== null) {
-    raycaster.setFromCamera(mouse, camera);
-    intersect = raycast();
-  } // Update targeted button state (if any)
-
-
-  if (intersect && intersect.object.isUI) {
-    if (selectState) {
-      // Component.setState internally call component.set with the options you defined in component.setupState
-      intersect.object.setState('selected');
-    } else {
-      // Component.setState internally call component.set with the options you defined in component.setupState
-      intersect.object.setState('hovered');
-    }
-  } // Update non-targeted buttons state
-
-
-  objsToTest.forEach(function (obj) {
-    if ((!intersect || obj !== intersect.object) && obj.isUI) {
-      // Component.setState internally call component.set with the options you defined in component.setupState
-      obj.setState('idle');
-    }
-  });
-}
-
-function raycast() {
-  return objsToTest.reduce(function (closestIntersection, obj) {
-    var intersection = raycaster.intersectObject(obj, true);
-    if (!intersection[0]) return closestIntersection;
-
-    if (!closestIntersection || intersection[0].distance < closestIntersection.distance) {
-      intersection[0].object = obj;
-      return intersection[0];
-    }
-
-    return closestIntersection;
-  }, null);
-}
-
-function getTexturesFromAtlasFile(atlasImgUrl, tilesNum) {
-  var textures = [];
-
-  for (var i = 0; i < tilesNum; i++) {
-    textures[i] = new THREE.Texture();
-  }
-
-  var loader = new THREE.ImageLoader();
-  loader.load(atlasImgUrl, function (imageObj) {
-    var canvas, context;
-    var tileWidth = imageObj.height;
-
-    for (var _i2 = 0; _i2 < textures.length; _i2++) {
-      canvas = document.createElement('canvas');
-      context = canvas.getContext('2d');
-      canvas.height = tileWidth;
-      canvas.width = tileWidth;
-      context.drawImage(imageObj, tileWidth * _i2, 0, tileWidth, tileWidth, 0, 0, tileWidth, tileWidth);
-      textures[_i2].image = canvas;
-      textures[_i2].needsUpdate = true;
-    }
-  });
-  return textures;
-}
-
-function hideAllMainContainers(container) {
-  for (var i = 0; i < mainContailners.length; i++) {
-    mainContailners[i].visible = false;
-  }
-
-  container.visible = true;
-}
-
-function updateMailBox(homeMainContainerTitle, mailButton) {
-  console.log(mailButton.userData.data); //homeMainContainerTitle.children[1].content=test;
-  // loop()
-  //console.log(homeMainContainerTitle)
-
-  homeMainContainerTitle.children[1].set({
-    content: mailButton.userData.data.subject
-  });
-  loop();
-}
-},{"three":"node_modules/three/build/three.module.js","three/examples/jsm/webxr/VRButton.js":"node_modules/three/examples/jsm/webxr/VRButton.js","three/examples/jsm/geometries/BoxLineGeometry.js":"node_modules/three/examples/jsm/geometries/BoxLineGeometry.js","three/examples/jsm/controls/OrbitControls.js":"node_modules/three/examples/jsm/controls/OrbitControls.js","../src/three-mesh-ui.js":"src/three-mesh-ui.js","./utils/VRControl.js":"src/utils/VRControl.js","./utils/ShadowedLight.js":"src/utils/ShadowedLight.js","../assets/adharvh.jpg":"assets/adharvh.jpg","../assets/home.png":"assets/home.png","../assets/icons8-notification-50.png":"assets/icons8-notification-50.png","../assets/icons8-speech-bubble-50.png":"assets/icons8-speech-bubble-50.png","../assets/icons8-customer-50.png":"assets/icons8-customer-50.png","../assets/icons8-settings-50.png":"assets/icons8-settings-50.png","../assets/sun_temple_stripe_stereo1.jpg":"assets/sun_temple_stripe_stereo1.jpg","../assets/Roboto-msdf.json":"assets/Roboto-msdf.json","../assets/Roboto-msdf.png":"assets/Roboto-msdf.png","../src/data/mails.json":"src/data/mails.json","../src/data/board.json":"src/data/board.json"}],"node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
+},{"three":"node_modules/three/build/three.module.js","three/examples/jsm/webxr/VRButton.js":"node_modules/three/examples/jsm/webxr/VRButton.js","three/examples/jsm/geometries/BoxLineGeometry.js":"node_modules/three/examples/jsm/geometries/BoxLineGeometry.js","three/examples/jsm/controls/OrbitControls.js":"node_modules/three/examples/jsm/controls/OrbitControls.js","../src/three-mesh-ui.js":"src/three-mesh-ui.js","./utils/VRControl.js":"src/utils/VRControl.js","./utils/ShadowedLight.js":"src/utils/ShadowedLight.js","../assets/adharvh.jpg":"assets/adharvh.jpg","../assets/Roboto-msdf.json":"assets/Roboto-msdf.json","../assets/Roboto-msdf.png":"assets/Roboto-msdf.png"}],"node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';
 var OldModule = module.bundle.Module;
@@ -68156,7 +67475,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "58385" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "59307" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
